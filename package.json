@@ -1,4 +1,4 @@
-json{
+{
   "name": "nutraguard-ai",
   "version": "1.0.0",
   "description": "AI-powered nutrition scanner that prevents health risks",
